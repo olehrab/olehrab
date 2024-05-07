@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-<h1 align="center">God dag 👋,  I'm Noa </h1>
-<h3 align="center">A software developer in Moldova </h3>
+<h1 align="center">God dag 👋,  I'm Oleh </h1>
+<h3 align="center">A software developer in Ukraine </h3>
 
 ## 💬 Talk with me 
 - Backend web development(nodejs,php,laravel,python,django,wordpress,AI)
@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 - Cool idea about production
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noakosar515&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=noakosar515&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=noakosar515&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noakosar515&theme=algolia&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=olehrab&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=olehrab&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=olehrab&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=olehrab&theme=algolia&utcOffset=8)
