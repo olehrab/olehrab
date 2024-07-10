@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-<h1 align="center">God dag 👋,  I'm Oleh </h1>
-<h3 align="center">A software developer in Ukraine </h3>
+<h1 align="center">Hi 👋,  I'm Oleh </h1>
+<h3 align="center">A software developer in Cometec </h3>
 
 ## 💬 Talk with me 
 - Backend web development(nodejs,php,laravel,python,django,wordpress,AI)
